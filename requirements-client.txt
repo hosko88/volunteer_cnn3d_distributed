@@ -1,0 +1,6 @@
+# Volontaire (PC Windows / Linux recommandes pour les phases 2 et 3)
+numpy>=1.26
+requests>=2.31
+torch>=2.0
+torchvision>=0.15
+h5py>=3.8
